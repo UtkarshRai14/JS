@@ -24,3 +24,13 @@ let random2 = "123"
 let numberrandom2 = Number(random2)
 console.log(typeof numberrandom2)
 console.log(numberrandom2)
+
+console.log("1"+2)
+console.log(1+"2")
+console.log(1+2+"2")
+console.log("1"+2+2)
+
+console.log(random2*2);
+console.log(random1*2);
+
+console.log(temp2*3)
